@@ -24,19 +24,3 @@
 
 </div>
 
----
-
-## 🐍 Snake Eating Contributions
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/MrLLim/MrLLim/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "Code. Learn. Improve. Repeat." ✨
-
-</div>
