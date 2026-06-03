@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&width=300&text=Welcome%20to%20MrLLim's%20World&fontAlign=50&fontAlignY=38&color=0:7F00FF,30:E100FF,60:00C9FF,100:92FE9D&fontColor=ffffff&desc=Dynamic%20GitHub%20Profile&descAlign=50&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&width=500&text=Welcome%20to%20MrLLim's%20World&fontAlign=50&fontAlignY=38&color=0:7F00FF,30:E100FF,60:00C9FF,100:92FE9D&fontColor=ffffff&desc=Dynamic%20GitHub%20Profile&descAlign=50&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Developer;Building+clean+backend+systems;Always+learning+something+new)](https://git.io/typing-svg)
 
